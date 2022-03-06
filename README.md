@@ -5,9 +5,7 @@ _\* Proof of Concept_
 Achieves the same goal as [tRPC](https://github.com/trpc/trpc), but without inventing new syntax for writing servers. \
 **Just use plain-old Express!**
 
-<video width="100%" height="auto" controls>
-  <source src="./demo.mp4" type="video/mp4">
-</video>
+https://user-images.githubusercontent.com/37664182/156937263-20cd8c50-046d-4ef9-bec3-0b1619126ebe.mp4
 
 - Zero run-time overhead
 - Zero configuration
