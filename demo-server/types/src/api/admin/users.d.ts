@@ -1,0 +1,2 @@
+declare const _exports: import("yaetae").Router<Record<import("yaetae/src/method").GET, import("../../models/User").User[]> & Record<import("yaetae/src/parse").Param, Record<"articles", Record<import("yaetae/src/method").GET, import("../../models/Article").Article[]>>> & Record<"very", Record<"very", Record<"long", Record<"path", Record<import("yaetae/src/method").POST, any>>>>>>;
+export = _exports;

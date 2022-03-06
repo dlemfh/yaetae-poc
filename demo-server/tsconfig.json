@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "composite": true,
+    "outDir": "types",
+    "declaration": true,
+    "emitDeclarationOnly": true,
+    "strict": true,
+    "allowJs": true,
+    "checkJs": true
+  },
+  "include": ["src/**/*", "index.js"]
+}

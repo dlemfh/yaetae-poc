@@ -1,0 +1,12 @@
+{
+  "name": "yaetae-poc",
+  "version": "0.1.0",
+  "description": "",
+  "keywords": [],
+  "license": "ISC",
+  "author": "",
+  "scripts": {
+    "postinstall": "npx recursive-install --skip-root",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
