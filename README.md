@@ -1,4 +1,4 @@
-## (yet another) End-to-end Typesafe APIs for Express
+## yet another End-to-end Typesafe APIs for Express
 
 _\* Proof of Concept_
 
